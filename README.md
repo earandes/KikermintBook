@@ -1,9 +1,8 @@
 # Kikermint Book
 
-`A place to share knowledge and best practices I earned in years.`
+**I created this repository to share knowledge and best practices I earned in years.**
 
-First of all, I will talk about this: 
-
+####I will talk about:
 - Github
     - Create new repository
     - Gitflow
@@ -30,10 +29,10 @@ First of all, I will talk about this:
 - Best practices
     - Hexagonal Architecture
     - DDD
-        - [Tell don't ask](https://martinfowler.com/bliki/TellDontAsk.html)
         - [CQRS](https://martinfowler.com/bliki/CQRS.html)
         - Aggregate
         - Bounded Context
+        - UbiquitousLanguage
         - ...
     - [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
     - XP (Extreme Programming) difference between Scrum
@@ -52,14 +51,12 @@ First of all, I will talk about this:
     - ...    
 - Agile 
     - [Cambios en paralelo](https://joind.in/event/software-crafters-barcelona-2018/cambios-en-paralelo-cambios-grandes-pasos-pequeos-workshop) 
-    - Event Storming
-  
-### [KATAS](http://kata-log.rocks/)
+    - [Event Storming](eventstorming.md)
+
+####Here I will share all [katas](http://kata-log.rocks/) I doing:
 - [Banking Kata](URL KATA)
 - ...
 
 
-### PHRASES
-```
-Failure is not an option
-```
+####Phrases
+- Failure is not an option
