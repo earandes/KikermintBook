@@ -1,9 +1,9 @@
-#Introducing Event Storming
+# Introducing Event Storming
 
 Event Storming is a rapid design technique that is meant to engage both Domain Experts and developers in a fast-paced learning process.
 It is focused on the business and business process rather than nouns and data.
 
-##What advantages does it have?
+## What advantages does it have?
 - It is a very tactile approach. (Sticky and pen) (business and developers stand on equal ground as they learn together). Everyone provides **[Ubiquitous Language](https://martinfowler.com/bliki/UbiquitousLanguage.html)**
 - It focuses everyone on events and business process rather than classes and databases. (ALWAYS business perspective no Users)
 - It is a very visual approach. (dismisses code from experimentation)
@@ -13,13 +13,13 @@ It is focused on the business and business process rather than nouns and data.
 - Use this for both big-picture and design-level modeling.
 - It is unnecessary to limit the storming sessions to one.
 
-##What will be need?
+## What will be need?
 - Having the right people, domain experts and developers who are to work with on the model
 - Everyone should come with an open mind that is free od strict judgment( More events is better tan less) The biggest mistake is people trying to be too correct too soon. Will refine after...
 - Colors of sticky notes and black marker
 - Wall
 
-##Steps
+## Steps
 
 1. Start with **domain events**, things happen in your model, left to right, and put with orange sticky note.
 Use always verb past tense. Probably is not the first domain event, but is the first you know. 
@@ -72,13 +72,13 @@ This notes are represented by green sticky notes, you can add if you want import
     - BacklogItem View
     - Sprint View
 
-##Conclusion
+## Conclusion
 Event Storming is about learning and communicating design to see big picture from your business and business process. We will do in next internal meetups and improve about event storming.
 
-###More links:
+### More links:
 - [Domain-Driven Design Distilled](https://www.amazon.es/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Event Storming for Fun and Profit - Vaughn Vernon #scbcn16](https://www.youtube.com/watch?v=OcIu-dvrXhY)
 - [Introducing Event Storiming - Alberto Brandolini](https://vimeo.com/130202708)
 
-###Practices
+### Practices
 - [Event Storming Online](https://webeventstorming.com/home)
