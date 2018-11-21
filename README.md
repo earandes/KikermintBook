@@ -2,7 +2,7 @@
 
 **I created this repository to share knowledge and best practices I earned in years.**
 
-####I will talk about:
+###I will talk about:
 - Github
     - Create new repository
     - Gitflow
@@ -53,10 +53,10 @@
     - [Cambios en paralelo](https://joind.in/event/software-crafters-barcelona-2018/cambios-en-paralelo-cambios-grandes-pasos-pequeos-workshop) 
     - [Event Storming](eventstorming.md)
 
-####Here I will share all [katas](http://kata-log.rocks/) I doing:
+###Here I will share all [katas](http://kata-log.rocks/) I doing:
 - [Banking Kata](URL KATA)
 - ...
 
 
-####Phrases
+###Phrases
 - Failure is not an option
