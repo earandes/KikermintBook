@@ -54,7 +54,8 @@
     - [Event Storming](eventstorming.md)
 
 ### Here I will share all [katas](http://kata-log.rocks/) I doing:
-- [Banking Kata](URL KATA)
+- [FizzBuzz Kata](https://github.com/earandes/fizz-buzz-kata)
+- [Bowling Game Kata](https://github.com/earandes/bowling-game-kata)
 - ...
 
 
