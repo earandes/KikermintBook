@@ -56,6 +56,8 @@
 ### Here I will share all [katas](http://kata-log.rocks/) I doing:
 - [FizzBuzz Kata](https://github.com/earandes/fizz-buzz-kata)
 - [Bowling Game Kata](https://github.com/earandes/bowling-game-kata)
+- [Banking Kata](https://github.com/earandes/banking-kata)
+- [Roman Numerals Kata](https://github.com/earandes/roman-numerals-kata)
 - ...
 
 
